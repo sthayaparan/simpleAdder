@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleAdder.Api.Tests/SimpleAdder.Api.Tests.csproj" />
+  <Project Path="SimpleAdder.Api/SimpleAdder.Api.csproj" />
+</Solution>

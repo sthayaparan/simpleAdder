@@ -1,0 +1,10 @@
+# .NET
+backend/**/bin/
+backend/**/obj/
+backend/**/logs/
+backend/**/TestResults/
+.vs/
+*.user
+
+# script runtime state
+scripts/.run/
